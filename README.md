@@ -36,7 +36,3 @@
 ---
 
 ⚡ *“Chaos is just code waiting to be debugged.”*
-
----
-
-![Snake animation](https://github.com/NatureDev221/NatureDev221/blob/output/github-contribution-grid-snake.svg)
