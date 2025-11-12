@@ -17,6 +17,11 @@
 
 ---
 
+### 🐍 Contribution Snake
+![snake gif](https://github.com/NatureDev/NatureDev/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ### 💬 Connect
 [![GitHub](https://img.shields.io/badge/GitHub-Nature.Dev-black?logo=github)](https://github.com/NatureDev)
 
