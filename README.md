@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hey, I’m Nature.Dev
 
-<!--
-**NatureDev221/NatureDev221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Just a skid doing skid things  
+⚡ Messing with code, breaking stuff, learning from chaos  
+🌱 Currently exploring the depths of **web dev** & **Python**  
+☠️ “If it works, don’t touch it... probably.”  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Arsenal
+> Not mastered, just abused 😈
+
+- 🐍 Python  
+- ⚙️ JavaScript  
+- 🌐 HTML / CSS  
+- 🧠 Git / GitHub  
+
+---
+
+### 🐍 Contribution Snake
+![snake gif](https://github.com/NatureDev/NatureDev/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 💬 Connect
+[![GitHub](https://img.shields.io/badge/GitHub-Nature.Dev-black?logo=github)](https://github.com/NatureDev)
+
+---
+
+⚡ *“Chaos is just code waiting to be debugged.”*
